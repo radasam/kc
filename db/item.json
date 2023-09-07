@@ -1,0 +1,4 @@
+[
+    {"id":"tomato", "weight": 5, "imagePath": "./tomato.png", "class":"harvest"},
+    {"id":"tomato-seed", "weight": 1, "imagePath": "./seed.png", "class":"seed", "classData":{"plantId":"tomato"}}
+]
